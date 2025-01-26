@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin & Swift**
 
-- 👨‍💻 All of my projects are available at [alecia.ca/projects](alecia.ca/projects)
+- 👨‍💻 You can view my solo projects at [alecia.ca/projects](alecia.ca/projects)
 
 - 💬 Ask me about **react, typescript, and next.js**
 
