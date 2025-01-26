@@ -9,11 +9,9 @@
 
 - 💬 Ask me about **react, typescript, and next.js**
 
-- 📫 How to reach me **hello@alecia.ca**
+- ⚡ Fun fact: **I'm an award-winning baker**
 
-- ⚡ Fun fact **I'm an award-winning baker**
-
-### Blogs posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
