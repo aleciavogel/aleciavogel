@@ -13,6 +13,7 @@
 
 ### Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [New year, new website!](https://alecia.ca/blog/new-year-new-website)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
