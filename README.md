@@ -3,7 +3,7 @@
 Most recently at Vercept — acquired by Anthropic in February 2026.
 Building AI-native products since before it was cool.</h3>
 
-**Available for contracts & fractional engagements** -- hello@alecia.ca
+<p align="center">**Available for contracts & fractional engagements** -- hello@alecia.ca</p>
 
 ****
 
