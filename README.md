@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alecia</h1>
+<h1 align="center">Hi, I'm Alecia 👋</h1>
 <h3 align="center">Senior full-stack developer helping startups scale, ship & get acquired.
 Most recently at Vercept — acquired by Anthropic in February 2026.
 Building AI-native products since before it was cool.</h3>
