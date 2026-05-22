@@ -11,10 +11,9 @@ Building AI-native products since before it was cool.</h3>
 
 I come in at the inflection point — when a startup needs to move faster, ship cleaner, or get their technical house in order before the next stage of growth. I've done this across healthcare AI, developer tooling, consumer platforms, and collaborative software.
 
-* Led frontend design & UX strategy at Vercept (acquired by Anthropic, Feb 2026)
+* Led frontend development & UX strategy at Vercept (acquired by Anthropic, Feb 2026)
 * Built AI-powered clinical documentation tools for healthcare providers
 * Reduced customer issue resolution times by 75% at Gather Town
-* Tripled paid event bookings through platform and monetization tooling
 * Modernized legacy stacks, shipped monorepos, built design systems
 
 I care as much about developer experience, accessibility, and product thinking as I do about writing clean, scalable code. If something is slow, brittle, or confusing, I'll find it and fix it.
